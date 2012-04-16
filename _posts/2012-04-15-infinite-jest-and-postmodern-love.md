@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infinite Jest: The Craft of Love"
+title: "Infinite Jest and Postmodern Love"
 description: ""
 category: love
 tags: [david foster wallace, love, seduction, orin]

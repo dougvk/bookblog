@@ -5,6 +5,7 @@ title: Transcending Binaries
 {% include JB/setup %}
 
 {% for post in site.posts limit:5 %}
+<h1 class="h2 entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 {{ post.content | truncatehtml: 1000 }}
 <div class="meta">
     <p class="date-publish">
