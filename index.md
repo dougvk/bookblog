@@ -5,10 +5,10 @@ title: Transcending Binaries
 {% include JB/setup %}
 
 {% for post in site.posts limit:5 %}
-{{ post.content | substring: 0, 100}}
+{{ post.content | truncatehtml: 1000 }}
 <div class="meta">
     <p class="date-publish">
-        <a href="{{ post.url }}">Comment</a>
+        <a href="{{ post.url }}">Read More &amp; Comment...</a>
         <span><br /><br />Published: {{ post.date | date: "%b %d, %Y" }}</span>
     </p>
     <ul class="list-category list-linear">

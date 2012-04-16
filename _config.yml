@@ -16,7 +16,7 @@ author :
   email : bookblog22 AT gmail DOT com
   github : dougvk
   twitter : dougvk
-  feedburner : dougvk
+  feedname : bookworn
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -79,9 +79,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : bookworn
     livefyre :
       site_id : 123
     intensedebate :
