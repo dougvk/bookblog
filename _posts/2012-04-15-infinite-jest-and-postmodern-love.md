@@ -3,7 +3,7 @@ layout: post
 title: "Infinite Jest and Postmodern Love"
 description: ""
 category: love
-tags: [david foster wallace, love, seduction, orin]
+tags: [infinite jest, david foster wallace, love, seduction, orin]
 ---
 {% include JB/setup %}
 #### Orin Incandenza seducing a Swedish hand model
