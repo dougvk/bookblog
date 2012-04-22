@@ -1,0 +1,1 @@
+sed -i '' 's/username\.github\.com/bookworn\.dougvk\.me/' _site/atom.xml

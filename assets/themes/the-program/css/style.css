@@ -401,7 +401,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: consolas, monaco, monospace;
+  font-family: "Gill Sans","Gill Sans MT", sans-serif;
   font-size: 1em;
   line-height: 1.425em;
 }
@@ -1067,7 +1067,7 @@ pre {
     -moz-box-shadow: #ffffff 0px 0px 2px;
     -o-box-shadow: #ffffff 0px 0px 2px;
     float: left;
-    width: 81%;
+    width: 88%;
     margin-right: -450px;
   }
   .body .unit-body {
@@ -1085,7 +1085,7 @@ pre {
     display: block;
     float: left;
     padding: 26px 0 0 26px;
-    width: 420px;
+    width: 320px;
   }
   .the-footer h4 {
     font-size: 30px;
